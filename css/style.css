@@ -70,7 +70,9 @@ body {
 	font: .8em/1.5 'OpenSans', Arial, sans-serif;
 }
 
-
+#wrapper {
+	width: 80%;
+}
 
 
 
